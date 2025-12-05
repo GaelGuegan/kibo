@@ -1,0 +1,16 @@
+*.kicad_pcb-bak
+*.bak
+*.kicad_sch-bak
+*.kicad_prl-bak
+*.kicad_pcb-bak
+*.pro.user
+*.cache
+*.net
+*.dru
+*.cmp
+*.pl
+*.out
+*.gbr
+*.pdf
+*.png
+kibo-backups/
